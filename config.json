@@ -1,9 +1,9 @@
 {
- "ip": "Your_minecraft_server_ip_here",
- "port": "Your_server_port_here",
- "name": "Your_bot_name_here",
+ "ip": "Discercraft.aternos.me",
+ "port": "45678",
+ "name": "Discebot",
  "auto-night-skip": "false",
- "loginmsg": "Your_Login_message_here",
+ "loginmsg": "Welcome",
  "prefix": "!",
- "version": "1.17.1"
+ "version": "1.18.1"
 }
